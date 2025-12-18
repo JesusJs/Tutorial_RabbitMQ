@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZa9Hj9P790=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knes\\Documents\\RabitMQApp\\RabbitApp\\RPCServer.cs\\Rabbit.RPCServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knes\\.nuget\\packages\\rabbitmq.client\\7.2.0\\rabbitmq.client.7.2.0.nupkg.sha512",
+    "C:\\Users\\knes\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\knes\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

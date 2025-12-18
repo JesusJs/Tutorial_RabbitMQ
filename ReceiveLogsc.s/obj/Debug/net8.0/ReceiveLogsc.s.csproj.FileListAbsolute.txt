@@ -1,0 +1,12 @@
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\bin\Debug\net8.0\ReceiveLogsc.s.deps.json
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\bin\Debug\net8.0\ReceiveLogsc.s.dll
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\bin\Debug\net8.0\ReceiveLogsc.s.pdb
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.csproj.AssemblyReference.cache
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.AssemblyInfoInputs.cache
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.AssemblyInfo.cs
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.csproj.CoreCompileInputs.cache
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.dll
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\refint\ReceiveLogsc.s.dll
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ReceiveLogsc.s.pdb
+C:\Users\knes\Documents\RabitMQApp\RabbitApp\ReceiveLogsc.s\obj\Debug\net8.0\ref\ReceiveLogsc.s.dll

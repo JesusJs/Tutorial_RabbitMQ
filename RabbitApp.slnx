@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/Tutorial 1 - Hola Mundo/">
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/RabbitApp.Receive/RabbitApp.Receive.csproj" Id="ef321973-b25c-4edd-8043-9f562d5e0625" />
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/RabbitApp.Send/RabbitApp.Send.csproj" Id="e738bc7b-897d-4c9c-91d3-06e727fce533" />
+  </Folder>
+  <Folder Name="/Tutorial 2 - Colas de trabajo/">
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/NewTask/Rabbit.NewTask.csproj" Id="054b2d39-f05e-4a2b-9f66-f15bcb9b0b7c" />
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/Worker/Rabbit.Worker.csproj" Id="7f79e9c7-68fe-4063-859a-4e0dd3445550" />
+  </Folder>
+  <Folder Name="/Tutorial 3 - Publicar - Suscribirse/">
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/EmitLog.cs/Rabbit.EmitLog.cs.csproj" Id="be9fcd21-d236-4806-b520-57e45f23154f" />
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/ReceiveLogsc.s/Rabbit.ReceiveLogs.csproj" Id="0d946b42-c82d-4053-b212-8c0e4a93e08e" />
+  </Folder>
+  <Folder Name="/Tutorial 4 - Routing/">
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/EmitLogDirect.cs/EmitLogDirect.cs.csproj" Id="b293a514-5635-4aaa-ba73-1304c4c39f0c" />
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/ReceiveLogsDirect.cs/ReceiveLogsDirect.cs.csproj" Id="052daf89-f4e3-408e-9f88-201480ebe232" />
+  </Folder>
+  <Folder Name="/Tutorial 5 - Topics/">
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/EmitLogTopic.cs/EmitLogTopic.cs.csproj" Id="80c5f1a8-3267-4d2d-9f2c-d98481cc4c7a" />
+    <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/ReceiveLogsTopic.cs/ReceiveLogsTopic.cs.csproj" Id="39090ed3-e43f-4b02-a3f5-b10b6661d304" />
+  </Folder>
+  <Project Path="../../../../../../Documents/RabitMQApp/RabbitApp/RabbitApp.Host/RabbitApp.Host.csproj" Id="74a5fd8f-2a1f-42c5-ba3b-68ccb9f3b471" />
+</Solution>
